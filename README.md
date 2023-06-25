@@ -16,8 +16,19 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am an AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+- Coding Languages:
+ Python, C++. 
+- Libraries:
+Tensorflow, Keras, Scikit-learn, OpenCV, Pandas, Numpy, Matplotlib, Qt5, Flask.
+- IDE:
+Pycharm, Google Colab, Jupyter NoteBook.
+
+- Data
+Collecting, Labeling Data, and Preprocessing for Image Data.
+- Modeling
+Building models for classification, regression, and object detection problems.
 
 ---
 ### :fire: My Stats :
