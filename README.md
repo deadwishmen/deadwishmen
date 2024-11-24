@@ -18,7 +18,7 @@ I am an AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - Coding Languages:
  Python, C++. 
 - Libraries:
-Tensorflow, Keras, Scikit-learn, OpenCV, Pandas, Numpy, Matplotlib, Qt5, Flask.
+Tensorflow, Pytorch, Keras, Scikit-learn, OpenCV, Pandas, Numpy, Matplotlib, Qt5, Flask.
 - IDE:
 Pycharm, Google Colab, Jupyter NoteBook.
 
