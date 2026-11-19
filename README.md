@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Minh%20Nguy%E1%BB%85n&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Deep%20Learning&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="./binary-header.svg" width="100%" alt="Minh Nguyễn — AI Engineer"/>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="gif"/>
 
@@ -24,7 +24,7 @@
   <img src="./angry_anime_reaction_loop.gif" width="400" alt="reaction"/>
 </div>
 
----
+<img src="./binary-divider.svg" width="100%" alt="binary divider"/>
 
 ## 👨‍💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -60,7 +60,7 @@ I'm an **AI Engineer** from Vietnam 🇻🇳, focused on Computer Vision and Dee
 | 🧠 **Modeling** | Classification, regression, and object detection |
 | 🛠️ **IDEs** | PyCharm, Google Colab, Jupyter Notebook |
 
----
+<img src="./binary-divider.svg" width="100%" alt="binary divider"/>
 
 ## $\Omega$ Classic Formulas of Computer Science
 
@@ -91,7 +91,7 @@ I'm an **AI Engineer** from Vietnam 🇻🇳, focused on Computer Vision and Dee
 
 </details>
 
----
+<img src="./binary-divider.svg" width="100%" alt="binary divider"/>
 
 ## $\nabla$ GitHub Stats
 
@@ -110,8 +110,6 @@ I'm an **AI Engineer** from Vietnam 🇻🇳, focused on Computer Vision and Dee
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="./binary-footer.svg" width="100%" alt="binary footer"/>
 </div>
