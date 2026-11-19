@@ -87,18 +87,34 @@ $$
 
 ---
 
-## $\int$ Workflow
+## $\Omega$ Classic Formulas of Computer Science
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1117','primaryBorderColor':'#58a6ff','lineColor':'#58a6ff','primaryTextColor':'#c9d1d9'}}}%%
-flowchart LR
-    A([Data Collection]) --> B([Labeling])
-    B --> C([Preprocessing])
-    C --> D([Modeling])
-    D --> E([Evaluation])
-    E -->|iterate| D
-    E --> F([Deploy])
-```
+<div align="center">
+  <img src="./math-floating.svg" width="100%" alt="Floating classic formulas"/>
+</div>
+
+<details>
+<summary><b>📖 Xem bản LaTeX đầy đủ</b></summary>
+
+| Chủ đề | Công thức |
+|:---|:---|
+| Độ phức tạp | $O(n \log n)$ |
+| Công thức Euler | $e^{i\pi} + 1 = 0$ |
+| Định lý Bayes | $P(A \mid B) = \dfrac{P(B \mid A)\,P(A)}{P(B)}$ |
+| Master theorem | $T(n) = 2\,T\!\left(\tfrac{n}{2}\right) + O(n)$ |
+| Gradient descent | $\theta \leftarrow \theta - \eta \nabla_\theta \mathcal{L}(\theta)$ |
+| Softmax | $\sigma(z)_i = \dfrac{e^{z_i}}{\sum_j e^{z_j}}$ |
+| Entropy Shannon | $H(X) = -\sum_x p(x) \log p(x)$ |
+| Cross-entropy | $\mathcal{L} = -\sum_i y_i \log \hat{y}_i$ |
+| Biến đổi Fourier | $F(\omega) = \int_{-\infty}^{\infty} f(t)\, e^{-i\omega t}\, dt$ |
+| Tích chập | $(f * g)(t) = \int f(\tau)\, g(t-\tau)\, d\tau$ |
+| Trị riêng | $A\mathbf{v} = \lambda \mathbf{v}$ |
+| Bellman | $V(s) = \max_a \Big[R(s,a) + \gamma \sum_{s'} P(s'\mid s,a)\, V(s')\Big]$ |
+| Tổng Gauss | $\sum_{i=1}^{n} i = \dfrac{n(n+1)}{2}$ |
+| Tỉ lệ vàng | $\varphi = \dfrac{1+\sqrt{5}}{2}$ |
+| Bài toán thiên niên kỷ | $\mathrm{P} \overset{?}{=} \mathrm{NP}$ |
+
+</details>
 
 ---
 
@@ -126,9 +142,5 @@ flowchart LR
 ---
 
 <div align="center">
-
-$$e^{i\pi} + 1 = 0$$
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
 </div>
