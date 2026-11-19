@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#101a33"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text { font-family: 'Cambria Math','STIX Two Math','Times New Roman',serif; font-style: italic; font-size: 24px; filter: url(#glow); }
+      .a { fill: #58a6ff; } .b { fill: #bc8cff; } .c { fill: #7ee787; } .d { fill: #ffa657; }
+    </style>
+  </defs>
+
+  <rect width="900" height="400" rx="16" fill="url(#bg)" stroke="#1f6feb" stroke-opacity=".5"/>
+
+  <!-- Hàng 1 -->
+  <text class="a" x="30" y="60">O(n log n)
+    <animateTransform attributeName="transform" type="translate" values="0 0;35 -10;0 0" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text class="b" x="250" y="60">e<tspan dy="-9" font-size="16">iπ</tspan><tspan dy="9"> + 1 = 0</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-30 12;0 0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.4;1" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text class="c" x="520" y="60">Av = λv
+    <animateTransform attributeName="transform" type="translate" values="0 0;28 10;0 0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+  <text class="d" x="700" y="60">φ = (1+√5)/2
+    <animateTransform attributeName="transform" type="translate" values="0 0;-25 -12;0 0" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.4;1" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Hàng 2 -->
+  <text class="a" x="60" y="130">P(A|B) = P(B|A)·P(A) / P(B)
+    <animateTransform attributeName="transform" type="translate" values="0 0;40 8;0 0" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="5.5s" repeatCount="indefinite"/>
+  </text>
+  <text class="b" x="500" y="130">T(n) = 2T(n/2) + O(n)
+    <animateTransform attributeName="transform" type="translate" values="0 0;-35 -8;0 0" dur="8.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.4;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Hàng 3 -->
+  <text class="c" x="30" y="200">θ ← θ − η∇L(θ)
+    <animateTransform attributeName="transform" type="translate" values="0 0;45 -10;0 0" dur="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text class="d" x="270" y="200">softmax = e<tspan dy="-9" font-size="16">zᵢ</tspan><tspan dy="9"> / Σ e</tspan><tspan dy="-9" font-size="16">zⱼ</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-30 10;0 0" dur="9.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.4;1" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text class="a" x="570" y="200">H(X) = −Σ p(x) log p(x)
+    <animateTransform attributeName="transform" type="translate" values="0 0;30 12;0 0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="4.2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Hàng 4 -->
+  <text class="b" x="40" y="270">F(ω) = ∫ f(t) e<tspan dy="-9" font-size="16">−iωt</tspan><tspan dy="9"> dt</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0 0;38 -8;0 0" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.4;1" dur="3.8s" repeatCount="indefinite"/>
+  </text>
+  <text class="c" x="450" y="270">(f∗g)(t) = ∫ f(τ) g(t−τ) dτ
+    <animateTransform attributeName="transform" type="translate" values="0 0;-32 10;0 0" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Hàng 5 -->
+  <text class="d" x="30" y="340">Σ i = n(n+1)/2
+    <animateTransform attributeName="transform" type="translate" values="0 0;30 -12;0 0" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.4;1" dur="3.2s" repeatCount="indefinite"/>
+  </text>
+  <text class="a" x="260" y="340">V(s) = maxₐ [R + γ Σ P·V(s′)]
+    <animateTransform attributeName="transform" type="translate" values="0 0;-28 8;0 0" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="4.6s" repeatCount="indefinite"/>
+  </text>
+  <text class="b" x="700" y="340">P ≟ NP
+    <animateTransform attributeName="transform" type="translate" values="0 0;-30 -10;0 0" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.4;1" dur="3.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
