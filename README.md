@@ -26,40 +26,15 @@
 
 ---
 
-## $\lambda$ About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## 👨‍💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-```python
-from dataclasses import dataclass, field
+Mình là **AI Engineer** đến từ Việt Nam 🇻🇳, tập trung vào Computer Vision và Deep Learning.
 
-@dataclass
-class Minh:
-    role: str = "AI Engineer"
-    country: str = "Vietnam 🇻🇳"
-    languages: list = field(default_factory=lambda: ["Python", "C++"])
-    focus: list = field(default_factory=lambda: [
-        "Computer Vision", "Object Detection", "Deep Learning"
-    ])
-
-    def mission(self) -> str:
-        return "minimize loss, maximize learning"
-
-if __name__ == "__main__":
-    print(Minh().mission())
-```
-
-Mục tiêu tối ưu hoá của mình:
-
-$$
-\theta^{*} = \arg\min_{\theta} \; \frac{1}{N} \sum_{i=1}^{N} \mathcal{L}\big(f_{\theta}(x_i),\, y_i\big) + \lambda \lVert \theta \rVert_2^2
-$$
-
-$$
-\theta_{t+1} = \theta_t - \eta \, \nabla_{\theta} \mathcal{L}(\theta_t)
-$$
-
-> *"Mathematics is the language in which the universe is written."*
-
----
+- 💻 **Ngôn ngữ lập trình:** Python, C++
+- 📚 **Thư viện:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Qt5, Flask
+- 🛠️ **IDE:** PyCharm, Google Colab, Jupyter Notebook
+- 🗂️ **Data:** Thu thập, gán nhãn và tiền xử lý dữ liệu ảnh
+- 🧠 **Modeling:** Xây dựng mô hình phân loại, hồi quy và phát hiện đối tượng
 
 ## $\sum$ Tech Stack
 
