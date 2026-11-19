@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./binary-header.svg" width="100%" alt="Minh Nguyễn — AI Engineer"/>
+<img src="./binary-header.svg" width="100%" alt="Minh Nguyen — AI Engineer"/>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="gif"/>
 
@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="./angry_anime_reaction_loop.gif" width="400" alt="reaction"/>
+  <img src="./angry_anime_reaction_loop.gif" width="300" alt="reaction"/>
 </div>
 
 <img src="./binary-divider.svg" width="100%" alt="binary divider"/>
