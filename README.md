@@ -28,13 +28,13 @@
 
 ## 👨‍💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Mình là **AI Engineer** đến từ Việt Nam 🇻🇳, tập trung vào Computer Vision và Deep Learning.
+I'm an **AI Engineer** from Vietnam 🇻🇳, focused on Computer Vision and Deep Learning.
 
-- 💻 **Ngôn ngữ lập trình:** Python, C++
-- 📚 **Thư viện:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Qt5, Flask
-- 🛠️ **IDE:** PyCharm, Google Colab, Jupyter Notebook
-- 🗂️ **Data:** Thu thập, gán nhãn và tiền xử lý dữ liệu ảnh
-- 🧠 **Modeling:** Xây dựng mô hình phân loại, hồi quy và phát hiện đối tượng
+- 💻 **Programming languages:** Python, C++
+- 📚 **Libraries:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Qt5, Flask
+- 🛠️ **IDEs:** PyCharm, Google Colab, Jupyter Notebook
+- 🗂️ **Data:** Collecting, labeling, and preprocessing image data
+- 🧠 **Modeling:** Building models for classification, regression, and object detection
 
 ## $\sum$ Tech Stack
 
@@ -54,40 +54,40 @@ Mình là **AI Engineer** đến từ Việt Nam 🇻🇳, tập trung vào Comp
 
 </div>
 
-| Lĩnh vực | Chi tiết |
+| Area | Details |
 |:---|:---|
-| 🗂️ **Data** | Thu thập, gán nhãn, tiền xử lý dữ liệu ảnh |
-| 🧠 **Modeling** | Phân loại, hồi quy, phát hiện đối tượng |
-| 🛠️ **IDE** | PyCharm, Google Colab, Jupyter Notebook |
+| 🗂️ **Data** | Collecting, labeling, and preprocessing image data |
+| 🧠 **Modeling** | Classification, regression, and object detection |
+| 🛠️ **IDEs** | PyCharm, Google Colab, Jupyter Notebook |
 
 ---
 
 ## $\Omega$ Classic Formulas of Computer Science
 
 <div align="center">
-  <img src="./math-floating.svg" width="100%" alt="Floating classic formulas"/>
+  <img src="./math-floating.svg" width="100%" alt="Classic formulas of computer science bouncing over falling binary code"/>
 </div>
 
 <details>
-<summary><b>📖 Xem bản LaTeX đầy đủ</b></summary>
+<summary><b>📖 View the full LaTeX version</b></summary>
 
-| Chủ đề | Công thức |
+| Topic | Formula |
 |:---|:---|
-| Độ phức tạp | $O(n \log n)$ |
-| Công thức Euler | $e^{i\pi} + 1 = 0$ |
-| Định lý Bayes | $P(A \mid B) = \dfrac{P(B \mid A)\,P(A)}{P(B)}$ |
+| Time complexity | $O(n \log n)$ |
+| Euler's identity | $e^{i\pi} + 1 = 0$ |
+| Bayes' theorem | $P(A \mid B) = \dfrac{P(B \mid A)\,P(A)}{P(B)}$ |
 | Master theorem | $T(n) = 2\,T\!\left(\tfrac{n}{2}\right) + O(n)$ |
 | Gradient descent | $\theta \leftarrow \theta - \eta \nabla_\theta \mathcal{L}(\theta)$ |
 | Softmax | $\sigma(z)_i = \dfrac{e^{z_i}}{\sum_j e^{z_j}}$ |
-| Entropy Shannon | $H(X) = -\sum_x p(x) \log p(x)$ |
+| Shannon entropy | $H(X) = -\sum_x p(x) \log p(x)$ |
 | Cross-entropy | $\mathcal{L} = -\sum_i y_i \log \hat{y}_i$ |
-| Biến đổi Fourier | $F(\omega) = \int_{-\infty}^{\infty} f(t)\, e^{-i\omega t}\, dt$ |
-| Tích chập | $(f * g)(t) = \int f(\tau)\, g(t-\tau)\, d\tau$ |
-| Trị riêng | $A\mathbf{v} = \lambda \mathbf{v}$ |
-| Bellman | $V(s) = \max_a \Big[R(s,a) + \gamma \sum_{s'} P(s'\mid s,a)\, V(s')\Big]$ |
-| Tổng Gauss | $\sum_{i=1}^{n} i = \dfrac{n(n+1)}{2}$ |
-| Tỉ lệ vàng | $\varphi = \dfrac{1+\sqrt{5}}{2}$ |
-| Bài toán thiên niên kỷ | $\mathrm{P} \overset{?}{=} \mathrm{NP}$ |
+| Fourier transform | $F(\omega) = \int_{-\infty}^{\infty} f(t)\, e^{-i\omega t}\, dt$ |
+| Convolution | $(f * g)(t) = \int f(\tau)\, g(t-\tau)\, d\tau$ |
+| Eigenvalue equation | $A\mathbf{v} = \lambda \mathbf{v}$ |
+| Bellman equation | $V(s) = \max_a \Big[R(s,a) + \gamma \sum_{s'} P(s'\mid s,a)\, V(s')\Big]$ |
+| Gauss's sum | $\sum_{i=1}^{n} i = \dfrac{n(n+1)}{2}$ |
+| Golden ratio | $\varphi = \dfrac{1+\sqrt{5}}{2}$ |
+| Millennium Prize problem | $\mathrm{P} \overset{?}{=} \mathrm{NP}$ |
 
 </details>
 
@@ -107,10 +107,6 @@ Mình là **AI Engineer** đến từ Việt Nam 🇻🇳, tập trung vào Comp
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deadwishmen&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=deadwishmen&theme=darkhub&no-frame=true&no-bg=true&row=1&margin-w=12" alt="Trophies"/>
 
 </div>
 
