@@ -28,6 +28,12 @@ Collecting, Labeling Data, and Preprocessing for Image Data.
 Building models for classification, regression, and object detection problems.
 
 ---
+
+<br/>
+<div align="center">
+  <img src="./angry_anime_reaction_loop.gif" width="400" />
+</div>
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deadwishmen&theme=dark)](https://git.io/streak-stats)
