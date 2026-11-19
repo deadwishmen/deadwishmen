@@ -68,30 +68,6 @@ I'm an **AI Engineer** from Vietnam 🇻🇳, focused on Computer Vision and Dee
   <img src="./math-floating.svg" width="100%" alt="Classic formulas of computer science bouncing over falling binary code"/>
 </div>
 
-<details>
-<summary><b>📖 View the full LaTeX version</b></summary>
-
-| Topic | Formula |
-|:---|:---|
-| Time complexity | $O(n \log n)$ |
-| Euler's identity | $e^{i\pi} + 1 = 0$ |
-| Bayes' theorem | $P(A \mid B) = \dfrac{P(B \mid A)\,P(A)}{P(B)}$ |
-| Master theorem | $T(n) = 2\,T\!\left(\tfrac{n}{2}\right) + O(n)$ |
-| Gradient descent | $\theta \leftarrow \theta - \eta \nabla_\theta \mathcal{L}(\theta)$ |
-| Softmax | $\sigma(z)_i = \dfrac{e^{z_i}}{\sum_j e^{z_j}}$ |
-| Shannon entropy | $H(X) = -\sum_x p(x) \log p(x)$ |
-| Cross-entropy | $\mathcal{L} = -\sum_i y_i \log \hat{y}_i$ |
-| Fourier transform | $F(\omega) = \int_{-\infty}^{\infty} f(t)\, e^{-i\omega t}\, dt$ |
-| Convolution | $(f * g)(t) = \int f(\tau)\, g(t-\tau)\, d\tau$ |
-| Eigenvalue equation | $A\mathbf{v} = \lambda \mathbf{v}$ |
-| Bellman equation | $V(s) = \max_a \Big[R(s,a) + \gamma \sum_{s'} P(s'\mid s,a)\, V(s')\Big]$ |
-| Gauss's sum | $\sum_{i=1}^{n} i = \dfrac{n(n+1)}{2}$ |
-| Golden ratio | $\varphi = \dfrac{1+\sqrt{5}}{2}$ |
-| Millennium Prize problem | $\mathrm{P} \overset{?}{=} \mathrm{NP}$ |
-
-</details>
-
-<img src="./binary-divider.svg" width="100%" alt="binary divider"/>
 
 ## $\nabla$ GitHub Stats
 
